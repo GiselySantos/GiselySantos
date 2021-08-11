@@ -19,7 +19,7 @@
  <div>
   <a href="https://github.com/GiselySantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giselysantos&show_icons=true&hide_rank=true&custom_title=Meus Status &border_radius=35&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giselysantos&layout=compact&langs_count=7&custom_title=Linguagens Utilizadas&border_radius=15&&theme=jolly"/>
+  <img height="180em" width="70%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=giselysantos&layout=compact&langs_count=7&custom_title=Linguagens Utilizadas&border_radius=15&&theme=jolly"/>
 </div>
     
   ##
