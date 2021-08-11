@@ -4,12 +4,13 @@
 
 <div>
 
-  <img align="left" alt="Gisah-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img width="150em" align="left" alt="Gisah-gif" src="https://i.picasion.com/pic91/f29823f3b29e7cd1d2a6590783facc3e.gif">
     
- - 🔭 I’m currently working on ...
- - 🌱 I’m currently learning ...
- - 👯 I’m looking to collaborate on ...
- - 🤔 I’m looking for help with ...
+ - 🧑‍🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas.
+ - 🧑‍🎓 MBA em Segurança da Informação.
+ - 💻 Atualmente trabalhando com a linguagem PHP.
+ - 📝 Aprendendo Laravel.
+ - 📝 Estudando Lingua Japonesa.
  
 </div>
 
