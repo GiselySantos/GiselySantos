@@ -11,18 +11,14 @@
 - 🇯🇵 Estudante de Língua Japonesa (certificação JLPT N4)
 - 🚀 Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades
 
-<br clear="left"/>
-
 ---
+### 🚀 Projetos em Destaque:
 
-## 🚀 Projetos em Destaque:
-
-### 🏫 Dashboard de Consulta de Salas
+🏫 Dashboard de Consulta de Salas
 Aplicação desenvolvida para simplificar a consulta de salas de aula e da programação diária de alunos de aprendizagem profissional.
 #### Observação:
 Esta é uma versão demonstrativa do projeto. Para preservar informações institucionais, os dados exibidos são simulados e a integração original foi substituída por mocks estáticos.
-🔗 **Repositório:**  
-[consulta-salas-demo](https://github.com/GiselySantos/consulta-salas-demo)
+🔗 **Repositório:** [consulta-salas-demo](https://github.com/GiselySantos/consulta-salas-demo)
 
 ---
 
