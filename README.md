@@ -26,10 +26,10 @@ Esta é uma versão demonstrativa do projeto. Para preservar informações insti
 
 ---
 
-## 📫 Contato
+### 📫 Contato
 
 <a href="https://www.linkedin.com/in/gisely-santos-backend/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
----
-⭐ Obrigada pela visita ao meu perfil!
+
+### ⭐ Obrigada pela visita ao meu perfil!
