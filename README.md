@@ -4,12 +4,13 @@
 
 ### Sobre mim
 
-- 🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas
-- 🎓 MBA em Segurança da Informação
-- 💻 Desenvolvedora Back-end com foco em PHP
-- 🌱 Estudando e aprimorando Laravel, boas práticas de desenvolvimento e desenvolvimento com IA
-- 🇯🇵 Estudante de Língua Japonesa (certificação JLPT N4)
-- 🚀 Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades
+- 🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas.
+- 🎓 MBA em Segurança da Informação.
+- 💻 Desenvolvedora Back-end com foco em PHP.
+- 🌱 Estudando e aprimorando Laravel, boas práticas de desenvolvimento, desenvolvimento com IA, e adquirindo nova stack estudando React e React Native ( tenhos uns projetos em mente para desenvolver com React Native ).
+- 🇯🇵 Estudante de Língua Japonesa (certificação JLPT N4).
+- 🥋 Faixa preta em Karatê ( estilo shito ryu - karatê de contato ).
+- 🚀 Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
 ---
 ### 🚀 Projetos em Destaque:
@@ -18,7 +19,7 @@
 Aplicação desenvolvida para simplificar a consulta de salas de aula e da programação diária de alunos de aprendizagem profissional.
 #### Observação:
 Esta é uma versão demonstrativa do projeto. Para preservar informações institucionais, os dados exibidos são simulados e a integração original foi substituída por mocks estáticos.
-🔗 **Repositório:** [consulta-salas-demo](https://github.com/GiselySantos/consulta-salas-demo)
+🔗 **Repositório:** [consulta-salas-demo](https://github.com/GiselySantos/consulta-salas-demo) [ em construção ] 
 
 ---
 
