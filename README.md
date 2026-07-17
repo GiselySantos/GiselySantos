@@ -7,8 +7,8 @@
 - 🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas.
 - 🎓 MBA em Segurança da Informação.
 - 💻 Desenvolvedora Back-end com foco em PHP.
-- 🌱 Estudando e aprimorando Laravel, boas práticas de desenvolvimento, desenvolvimento com IA, e adquirindo nova stack estudando React e React Native ( tenhos uns projetos em mente para desenvolver com React Native ).
-- 🇯🇵 Estudante de Língua Japonesa (certificação JLPT N4).
+- 🌱 Estudando e aprimorando Laravel, boas práticas de desenvolvimento, desenvolvimento com IA, e adquirindo nova stack estudando Go.
+- 🇯🇵 Estudante de Língua Japonesa ( certificação JLPT N4 ).
 - 🥋 Faixa preta em Karatê ( estilo shito ryu - karatê de contato ).
 - 🚀 Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
