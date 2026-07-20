@@ -61,7 +61,7 @@ Aplicação desenvolvida para simplificar a consulta de salas de aula e da progr
 
 > **Observação:** esta é uma versão demonstrativa do projeto. Para preservar informações institucionais, os dados exibidos são simulados e a integração original foi substituída por mocks estáticos.
 
-🔗 **Repositório:** [consulta-salas-demo](https://github.com/GiselySantos/consulta-salas-demo) *(em construção)*
+🔗 **Repositório:** [consulta-salas-demo](https://github.com/GiselySantos/consulta-sala-demo) 
 
 ---
 
