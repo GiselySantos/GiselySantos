@@ -1,7 +1,6 @@
 # Olá, eu sou a Gisely Santos! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/gisely-santos-backend/)
-[![Portfólio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=flat)](https://my-portfolio-dev-backend.vercel.app/)
 
 ---
 
