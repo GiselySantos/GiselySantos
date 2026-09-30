@@ -10,7 +10,7 @@
 🎓 MBA em **Segurança da Informação**  
 💻 Desenvolvedora **Back-end** com foco em **PHP**  
 🌱 Estudando e aprimorando **Laravel**, boas práticas de desenvolvimento e desenvolvimento com IA.
-🇯🇵 Estudante de Língua Japonesa (certificação **JLPT N4**)  
+ 🇯🇵 Estudante de Língua Japonesa (certificação **JLPT N4**)  
 🥋 Faixa preta em Karatê (estilo *shito ryu* — karatê de contato)  
 🚀 Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades
 
